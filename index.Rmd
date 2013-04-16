@@ -10,6 +10,28 @@ widgets     : []            # {mathjax, quiz, bootstrap}
 mode        : selfcontained # {standalone, draft}
 ---
 
+Letter of Invitation
+-----
+  
+Hi All,  
+  
+The research study is about students' note-taking habits and learning. Your participation in the research is completely voluntary and it will involve only:  
+  
+* Using a Cloud-based app or pen and paper to take notes  
+* Submitting your lecture notes for analysis (the notes will be returned to you)
+* Completing a short quiz at the end of the lecture (the quiz will not affect your course grade)
+  
+All information collected is confidential. Consent is implied when you submit your notes. 
+      
+My research supervisor is Helen Fitzgerald. Should you have any queries about the study or your participation in it, you may contact her or myself.  
+  
+Thank you for your help.  
+  
+Andrew Chan   
+
+
+---
+
 
 Group C (Wed 11am - 1pm, T306)
 ---  
@@ -39,12 +61,13 @@ Group A (Thu 2pm - 1pm, T304)
 ||O'Sullivan, James|Walshe, Fiona| 
 ||Coleman, Shane|Casey, Michael|
 ||Bermingham, Thomas|Cronin, Harry|
-||Fennell, Patrick|Heanue, Alan|
-||Costello, Paul|Brophy, Jonchristopher|
+||Heanue, Alan|Fennell, Patrick|  
+||Begley, Shane|Brophy, Jonchristopher|
 ||Krasniqi, Liranda|Hughes, Steven|
 ||Barry, Patrick|Azzam, Mahmoud|
-||Barrett, Chris|Begley, Shane|  
+||Barrett, Chris|Costello, Paul|  
 ||Maruszak, Karol|Lynch, John D|  
+
 
 --- .class #id
 
@@ -52,7 +75,9 @@ Pen & Paper
 ----
 
 * will collect your lectures notes for analysis. Notes will be returned to you next week.
-* please put your student ID on the notes for identification
+* please put your student ID on the notes for identification  
+  
+  
 
 Computer (Web App)
 ----
@@ -64,30 +89,15 @@ Computer (Web App)
 
 --- .class #id
 
-Letter of Invitation
------
   
-Hi All,  
   
-The research study is about students' note-taking habits and learning. Your participation in the research is completely voluntary and it will involve only:  
+For Both Groups
+-------
   
-* Using a Cloud-based app or pen and paper to take notes  
-* Submitting your lecture notes for analysis (the notes will be returned to you)
-* Completing a short quiz at the end of the lecture (the quiz will not affect your course grade)
   
-All information collected is confidential. Consent is implied when you submit your notes. 
-      
-My research supervisor is Helen Fitzgerald. Should you have any queries about the study or your participation in it, you may contact her or myself.  
   
-Thank you for your help.  
-  
-Andrew Chan   
+Please complete a short quiz AFTER the lecture
+======
 
-
----
-  
-  
-  
-###### Please complete a short quiz at 
   
 https://docs.google.com/forms/d/1Mj_57xFbtVOxBctKXMM7BkBrgq5b6JsQmR41A8gi_Yk/viewform
